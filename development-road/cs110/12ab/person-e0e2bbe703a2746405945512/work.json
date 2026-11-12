@@ -9,7 +9,7 @@
       "verificationCode": "VIEW-50209D39587C8ADAB63D3341"
     },
     "draft": {
-      "currentPage": 15,
+      "currentPage": 8,
       "prep": {
         "repo": "https://github.com/Kon-6/CS-110-GameProject",
         "gitTest": "I created my repository by logging into GitHub and clicking on New Repository. I gave my repository a name and created it. after that, I opened my repository in GitHub Codespaces so could work on my files. I used index.html to create and edit my webpage. I saved my changes, committed them, and pushed them to GitHub so my work would be saved in repository.",
@@ -91,7 +91,7 @@
     "invites": []
   },
   "draft": {
-    "currentPage": 15,
+    "currentPage": 8,
     "prep": {
       "repo": "https://github.com/Kon-6/CS-110-GameProject",
       "gitTest": "I created my repository by logging into GitHub and clicking on New Repository. I gave my repository a name and created it. after that, I opened my repository in GitHub Codespaces so could work on my files. I used index.html to create and edit my webpage. I saved my changes, committed them, and pushed them to GitHub so my work would be saved in repository.",
@@ -137,7 +137,7 @@
   "prefs": {
     "schemaVersion": 1,
     "theme": "development-road",
-    "lastPage": 15,
+    "lastPage": 8,
     "timerMinutes": 10
   }
 }
