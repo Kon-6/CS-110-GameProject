@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "course": "CS110",
+  "assignment": "independence-12ab",
+  "state": {
+    "me": {
+      "id": "PERSON-E0E2BBE703A2746405945512",
+      "name": "Kevin Contreras",
+      "verificationCode": "VIEW-50209D39587C8ADAB63D3341"
+    },
+    "draft": {
+      "currentPage": 46,
+      "prep": {
+        "repo": "https://github.com/Kon-6/CS-110-GameProject",
+        "gitTest": "I created my repository by logging into GitHub and clicking on New Repository. I gave my repository a name and created it. after that, I opened my repository in GitHub Codespaces so could work on my files. I used index.html to create and edit my webpage. I saved my changes, committed them, and pushed them to GitHub so my work would be saved in repository.",
+        "access": "Solo",
+        "video1": "The video introduces the game development process using Unity. I learned that creating a game involves different steps, including planning, designing, programming, and testing. I want to learn more about how Unity works and how C# is used to make games.",
+        "video2": "The video explains why having a good mindset is important in game development. I learned developers need to be creative, patient, and willing to learn from their mistakes. It also talks about challenges like technical problems, adding too many features, and burnout. One thing I found useful was setting small goals and staying organized instead of trying to do everything at once, I think this can help me as I continue learning programming.",
+        "video3": "I learned that organizing your folders and files is important when creating a game because it makes everything easier to find. The video showed how to create a main project folder and use different folders to keep things organized. One thing i found useful was the dolog.txt file because it helps you keep track of your progress. My question is, do we need to create all these folders manually, or can we use a tool to create them automatically.",
+        "video4": "I learned that documentation is important when creating a game because it helps keep everything organized and makes it easier to understand the project. The video showed how a Game Development can be used to the game's features, goals, and progress. One thing i found useful was using README files to explain what each folder contains. My question is, do we need to create a Game Development Document even if we are working on a small game by ourselves? "
+      },
+      "communicationTables": [
+        {
+          "id": "7866397b-1d98-470e-8204-3e36ace2b064",
+          "title": "Team check-ins",
+          "columns": [
+            {
+              "label": "Description / contact / owner",
+              "type": "text"
+            },
+            {
+              "label": "When · Pacific",
+              "type": "datetime-local"
+            },
+            {
+              "label": "Agreed",
+              "type": "checkbox"
+            }
+          ],
+          "rows": [
+            [
+              "",
+              "",
+              false
+            ]
+          ]
+        }
+      ],
+      "huddle": {
+        "communication": "Team check-ins\nDescription / contact / owner | When · Pacific | Agreed\n |  | [ ]",
+        "code": ""
+      },
+      "codeTables": []
+    },
+    "receipts": [],
+    "clocks": [
+      {
+        "code": "TIME-7BCE00CFF14726228099FCC2",
+        "name": "Kevin Contreras",
+        "day": "B",
+        "arrival": "2026-11-12T20:57:41.090Z",
+        "start": "2026-11-12T20:45:00Z",
+        "calculated": 10,
+        "deduction": 10,
+        "status": "Calculated · awaiting instructor review",
+        "recovery": {
+          "status": "Not requested",
+          "requestedAt": null,
+          "restoredPoints": 0,
+          "approvedAt": null
+        }
+      },
+      {
+        "code": "TIME-DAB07EE7EF1A436FD501AA10",
+        "name": "Kevin Contreras",
+        "day": "A",
+        "arrival": "2026-11-12T21:07:46.756Z",
+        "start": "2026-11-10T20:45:00Z",
+        "calculated": 2900,
+        "deduction": 20,
+        "status": "Calculated · awaiting instructor review",
+        "recovery": {
+          "status": "Not requested",
+          "requestedAt": null,
+          "restoredPoints": 0,
+          "approvedAt": null
+        }
+      }
+    ],
+    "team": null,
+    "invites": []
+  },
+  "draft": {
+    "currentPage": 46,
+    "prep": {
+      "repo": "https://github.com/Kon-6/CS-110-GameProject",
+      "gitTest": "I created my repository by logging into GitHub and clicking on New Repository. I gave my repository a name and created it. after that, I opened my repository in GitHub Codespaces so could work on my files. I used index.html to create and edit my webpage. I saved my changes, committed them, and pushed them to GitHub so my work would be saved in repository.",
+      "access": "Solo",
+      "video1": "The video introduces the game development process using Unity. I learned that creating a game involves different steps, including planning, designing, programming, and testing. I want to learn more about how Unity works and how C# is used to make games.",
+      "video2": "The video explains why having a good mindset is important in game development. I learned developers need to be creative, patient, and willing to learn from their mistakes. It also talks about challenges like technical problems, adding too many features, and burnout. One thing I found useful was setting small goals and staying organized instead of trying to do everything at once, I think this can help me as I continue learning programming.",
+      "video3": "I learned that organizing your folders and files is important when creating a game because it makes everything easier to find. The video showed how to create a main project folder and use different folders to keep things organized. One thing i found useful was the dolog.txt file because it helps you keep track of your progress. My question is, do we need to create all these folders manually, or can we use a tool to create them automatically.",
+      "video4": "I learned that documentation is important when creating a game because it helps keep everything organized and makes it easier to understand the project. The video showed how a Game Development can be used to the game's features, goals, and progress. One thing i found useful was using README files to explain what each folder contains. My question is, do we need to create a Game Development Document even if we are working on a small game by ourselves? "
+    },
+    "communicationTables": [
+      {
+        "id": "7866397b-1d98-470e-8204-3e36ace2b064",
+        "title": "Team check-ins",
+        "columns": [
+          {
+            "label": "Description / contact / owner",
+            "type": "text"
+          },
+          {
+            "label": "When · Pacific",
+            "type": "datetime-local"
+          },
+          {
+            "label": "Agreed",
+            "type": "checkbox"
+          }
+        ],
+        "rows": [
+          [
+            "",
+            "",
+            false
+          ]
+        ]
+      }
+    ],
+    "huddle": {
+      "communication": "Team check-ins\nDescription / contact / owner | When · Pacific | Agreed\n |  | [ ]",
+      "code": ""
+    },
+    "codeTables": []
+  },
+  "prefs": {
+    "schemaVersion": 1,
+    "theme": "development-road",
+    "lastPage": 46,
+    "timerMinutes": 10
+  }
+}
