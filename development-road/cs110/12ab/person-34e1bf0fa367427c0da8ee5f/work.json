@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "course": "CS110",
+  "assignment": "independence-12ab",
+  "state": {
+    "me": {
+      "id": "PERSON-34E1BF0FA367427C0DA8EE5F",
+      "name": "Kevin",
+      "verificationCode": "VIEW-8CF8A111C84D914B174B94EB"
+    },
+    "draft": {
+      "prep": {
+        "repo": "https://github.com/Kon-6/CS-110-GameProject",
+        "gitTest": "I created an index.html file in VS Code for my number guessing game. I saved the file and opened it in Safari to test it. The webpage displayed correctly. I committed my changes using the message “Week 12 Git workflow test” and pushed them to my personal GitHub repository. I opened GitHub to verify that my index.html file was uploaded successfully.\n\nMy project will be a number guessing game using HTML, CSS, and JavaScript.",
+        "access": "I am working solo on my Week 12 project. I created my personal GitHub repository and tested my Git workflow using VS Code. I created an index.html file for my number guessing game and previewed it successfully in Safari. I committed and pushed my changes to GitHub. I checked that my repository was accessible and that my updated file appeared correctly.",
+        "video1": "a",
+        "video2": "a",
+        "video3": "a",
+        "video4": "a",
+        "video5": "a",
+        "video6": "a",
+        "opinion": "a",
+        "questions": "a"
+      },
+      "currentPage": 46,
+      "prepBoard": {
+        "notes": "",
+        "strokes": [],
+        "images": [],
+        "nodes": [],
+        "edges": []
+      }
+    },
+    "receipts": [],
+    "clocks": [
+      {
+        "code": "TIME-F336CA1C80DBE972AE88A137",
+        "name": "Kevin",
+        "day": "A",
+        "arrival": "2026-11-13T01:16:41.928Z",
+        "start": "2026-11-10T20:45:00Z",
+        "calculated": 3150,
+        "deduction": 20,
+        "status": "Calculated · awaiting instructor review",
+        "recovery": {
+          "status": "Not requested",
+          "requestedAt": null,
+          "restoredPoints": 0,
+          "approvedAt": null
+        }
+      },
+      {
+        "code": "TIME-D77A759638415BE8467BBD59",
+        "name": "Kevin",
+        "day": "B",
+        "arrival": "2026-11-13T01:36:40.205Z",
+        "start": "2026-11-12T20:45:00Z",
+        "calculated": 290,
+        "deduction": 20,
+        "status": "Calculated · awaiting instructor review",
+        "recovery": {
+          "status": "Not requested",
+          "requestedAt": null,
+          "restoredPoints": 0,
+          "approvedAt": null
+        }
+      }
+    ],
+    "team": null,
+    "invites": []
+  },
+  "draft": {
+    "prep": {
+      "repo": "https://github.com/Kon-6/CS-110-GameProject",
+      "gitTest": "I created an index.html file in VS Code for my number guessing game. I saved the file and opened it in Safari to test it. The webpage displayed correctly. I committed my changes using the message “Week 12 Git workflow test” and pushed them to my personal GitHub repository. I opened GitHub to verify that my index.html file was uploaded successfully.\n\nMy project will be a number guessing game using HTML, CSS, and JavaScript.",
+      "access": "I am working solo on my Week 12 project. I created my personal GitHub repository and tested my Git workflow using VS Code. I created an index.html file for my number guessing game and previewed it successfully in Safari. I committed and pushed my changes to GitHub. I checked that my repository was accessible and that my updated file appeared correctly.",
+      "video1": "a",
+      "video2": "a",
+      "video3": "a",
+      "video4": "a",
+      "video5": "a",
+      "video6": "a",
+      "opinion": "a",
+      "questions": "a"
+    },
+    "currentPage": 46,
+    "prepBoard": {
+      "notes": "",
+      "strokes": [],
+      "images": [],
+      "nodes": [],
+      "edges": []
+    }
+  },
+  "prefs": {
+    "schemaVersion": 1,
+    "theme": "development-road",
+    "lastPage": 46,
+    "timerMinutes": 10
+  }
+}
