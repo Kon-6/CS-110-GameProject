@@ -1,0 +1,29 @@
+# Unity temporary files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Mac files
+.DS_Store
+
+# Visual Studio files
+.vscode/
+.vs/
+*.csproj
+*.sln
+*.slnx
+
+# Unity backup files
+Assets/_Recovery/
+# Unity project temporary files
+RollABall/Library/
+RollABall/Temp/
+RollABall/Obj/
+RollABall/Logs/
+RollABall/UserSettings/
+
+# Unity build files
+RollABall/RollABallBuild.app/
+RollABall/RollABallBuild_BackUpThisFolder_ButDontShipItWithYourGame/
