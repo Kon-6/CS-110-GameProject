@@ -5,9 +5,11 @@
 
 [View My Submission Code](https://github.com/Kon-6/CS-110-GameProject/blob/main/CS-110GameProject/CS110-Kevin-Contreras-2026-11-13%203/PERSONAL-SUBMISSION-CODE.txt)
 
-Play My Unity Game
-🎮 Click Here to Play RollABall
-About My Project
+
+## Play My Unity Game
+
+[🎮 Click Here to Play RollABall](https://kon-6.github.io/CS-110-GameProject/)
+
 
 This is my Unity RollABall project for my CS110 class. The purpose of this assignment was to practice creating a Unity project, organizing files, and uploading my work to GitHub.
 
